@@ -3,7 +3,7 @@
 Little project from TOP, to put in practice the concepts of files and serialization
 
 # Learning Goals
--manipulate file input and output
+-manipulate file input and output\n
 -read content from a CSV (Comma Separated Value) file
 -transform it into a standardized format
 -utilize the data to contact a remote service
